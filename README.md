@@ -18,13 +18,9 @@ This program just helps you find the angles and their respective distances for t
 
 This is ban-free. It does not modify the game or read data.
 
-Some gents have similar throwables, like Viper smoke and Killjoy nano-swarm; a lineup for Viper works perfectly with Killjoy.
-
 ![image](images/screen2.png)
 ![image](images/screen1.png)
 ![image](images/screen3.png)
-
-[Reference video](https://www.youtube.com/watch?v=kk4y5L4_kxs&t=3s) (this video is not mine)
 
 ## Getting Started
 
@@ -33,6 +29,8 @@ Go to the releases, download the last executable file, and run it.
 When you run the exe, a terminal will open. You can close the terminal to close the program.
 
 ## Usage
+
+[Reference video](https://www.youtube.com/watch?v=kk4y5L4_kxs&t=3s) (this video is not mine)
 
 There are three buttons on the left side of the screen:
 
