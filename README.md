@@ -28,7 +28,9 @@ Some gents have similar throwables, like Viper smoke and Killjoy nano-swarm; a l
 
 ## Getting Started
 
-run the main file
+Go to the releases, download the last executable file, and run it.
+
+When you run the exe, a terminal will open. You can close the terminal to close the program.
 
 ## Usage
 
