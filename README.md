@@ -30,7 +30,7 @@ When you run the exe, a terminal will open. You can close the terminal to close 
 
 ## Usage
 
-[Reference video](https://www.youtube.com/watch?v=kk4y5L4_kxs&t=3s) (this video is not mine)
+[Reference video](https://www.youtube.com/watch?v=kk4y5L4_kxs) (this video is not mine)
 
 There are three buttons on the left side of the screen:
 
