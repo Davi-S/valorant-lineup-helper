@@ -30,12 +30,13 @@ When you run the exe, a terminal will open. You can close the terminal to close 
 
 ## Usage
 
-[Reference video](https://www.youtube.com/watch?v=kk4y5L4_kxs) (this video is not mine)
+[This video](https://www.youtube.com/watch?v=kk4y5L4_kxs) Explains how the "sky-dot" method works. [This other video](https://www.youtube.com/watch?v=kfkvQpB-sJs) is a showcase of this lineup helper program
 
 There are three buttons on the left side of the screen:
 
--The first button: shows or hides the marks.
+- First button: shows or hides the distance marks.
 
--second button: Alternate through long-range or medium-range projectiles. Viper poison and Sage slow, for example, are long-range; and Viper smoke and Killjoy are medium-range.
+- Second button: Alternate through "long-range" or "medium-range" projectiles. For example: Viper poison and Sage slow are long-range projectiles, and Viper smoke and Killjoy nanobots are medium-range projectiles.
 
--third button: Alternate between stopping, running, or jumping when throwing. If you set it to "jump", you must jump when throwing.
+- Third button: Alternate between stopping, running, or jumping when throwing. If you set it to "still" you must be stopped to throw; if you set it to "jump", you must jump when throwing; if you set do "run" you have to be running when throwing. 
+
