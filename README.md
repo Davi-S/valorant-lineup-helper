@@ -7,6 +7,7 @@ Wing Any Lineup from Anywhere
 - [Valorant Lineup helper](#valorant-lineup-helper)
   - [Table Of Contents](#table-of-contents)
   - [About The Project](#about-the-project)
+  - [Discord](#discord)
   - [Getting Started](#getting-started)
   - [Usage](#usage)
 
