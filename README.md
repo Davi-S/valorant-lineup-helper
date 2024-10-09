@@ -22,6 +22,11 @@ This is ban-free. It does not modify the game or read data.
 ![image](images/screen1.png)
 ![image](images/screen3.png)
 
+## Discord
+You're invited to join our [Discord server](https://discord.gg/gbaGu3ermT) where you can chat and get help for this project and for [Toolorant](https://github.com/Davi-S/Toolorant/) too.
+
+**JOIN LINK**: <https://discord.gg/gbaGu3ermT>
+
 ## Getting Started
 
 Go to the releases, download the last executable file, and run it.
@@ -39,4 +44,3 @@ There are three buttons on the left side of the screen:
 - Second button: Alternate through "long-range" or "medium-range" projectiles. For example: Viper poison and Sage slow are long-range projectiles, and Viper smoke and Killjoy nanobots are medium-range projectiles.
 
 - Third button: Alternate between stopping, running, or jumping when throwing. If you set it to "still" you must be stopped to throw; if you set it to "jump", you must jump when throwing; if you set do "run" you have to be running when throwing. 
-
